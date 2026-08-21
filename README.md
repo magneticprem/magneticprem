@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**magneticprem/magneticprem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rudra  raj singh and I am a Software Engineer passionate about building secure software solutions.
+Also Passionate about all things **Frontend**, **Backend**, and **Cloud**
 
-Here are some ideas to get you started:
+💕 Currently working on: Artsy [Click here to check it out](https://www.indixtechnology.in/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Projects I've worked on include:
+- [Open-source Findr] (https://in.linkedin.com/in/rudra-raj-singh) : An Open Source project finder
+---
+Made by Rudra raj singh
+-Founder of NKS group and Indixtechnology
